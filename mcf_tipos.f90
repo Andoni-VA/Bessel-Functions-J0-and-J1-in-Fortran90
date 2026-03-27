@@ -1,4 +1,9 @@
 module mcf_tipos 
+
+! VERY USEFUL IN CIENTIFIC COMPUTING
+! THIS MODULE ALLOW US TO SET THE EXACT PRECISION OF THE REAL NUMBERS OR THE DIGITS OF THE INTEGERS
+
+! Guide in Basque:
 ! Luzapenean oinarritutako mota estandarrak definitzen ditu (zenbaki osoetarako)
 ! eta zehaztasunean (zifra esanguratsuen kopurua) errealetarako.
 !
